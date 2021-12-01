@@ -4,6 +4,7 @@ print('\n***PROJECT DETAILS***\n\n***Function of the Code: To print the reversed
 #I am using it to just clean up the codes intro part
 print('~ Project name: 3_digit_number_reverser\n~ Creator name: Shashank.k.puttappanavar')
 print('~ GitHub ID: Shashankkp247\n~ GitHub link: github.com/shashankkp247\n')
+print("~ GitHub source-code link: https://github.com/Shashankkp247/tridigrev/blob/main/tridigrev.py \n")
 
 #asking for 3 digit integer input which will be considered as string
 num = input("Enter a 3 digit number from 001 to 999 \n(else the output result will be undesired) : ")
