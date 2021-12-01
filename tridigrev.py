@@ -24,5 +24,5 @@ str = ""
 for i in num:
     str = i + str
 
-#printing the results
-print(f'The reversed 3 digit number is "{str}"')
+#printing the results with a smile
+print(f'\n:) The reversed number is "{str}"\n')
