@@ -1,5 +1,9 @@
 #intro
-print('"PROJECT DETAILS"\n~ Project name: 3_digit_number_reverser\n~ Creator name: Shashank.k.puttappanavar\n~ GitHub ID: Shashankkp247\n~ GitHub link: github.com/shashankkp247\n~ Function of the Code: To print the reversed version of the 3 digit number prompted from the user\n')
+print('\n***PROJECT DETAILS***\n\n***Function of the Code: To print the reversed version of the 3 digit number prompted from the user***\n')
+#here the \n just means go to next which means that the letters after will be printed in the next line
+#I am using it to just clean up the codes intro part
+print('~ Project name: 3_digit_number_reverser\n~ Creator name: Shashank.k.puttappanavar')
+print('~ GitHub ID: Shashankkp247\n~ GitHub link: github.com/shashankkp247\n')
 
 #asking for 3 digit integer input which will be considered as string
 num = input("Enter a 3 digit number from 001 to 999 \n(else the output result will be undesired) : ")
